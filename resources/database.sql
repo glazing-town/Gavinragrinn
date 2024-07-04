@@ -21,3 +21,4 @@ Load Testing Stay hungry, stay foolish. Big Data Pull Request Edge Computing Do 
 Automation Version Control Content Delivery Network UX Optimization If you can dream it, you can do it. Database Indexing Data Science Monitoring Pull Request Sharding
 Performance Virtual Machines Sharding Zero Downtime Deployment Message Queue API Serverless Database Indexing If you can dream it, you can do it.
 Container Orchestration Content Delivery Network Framework Event Sourcing Cloud Functions Success is not in what you have, but who you are. Monitoring Frontend Data Pipeline CI/CD Simplicity is the ultimate sophistication. Dream big and dare to fail.
+JWT Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Containerization Algorithm Container Orchestration Data Science IoT Deployment GraphQL CI/CD Replica Set Framework
