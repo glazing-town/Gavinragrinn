@@ -20,3 +20,4 @@ Database Multi-threading API Gateway Security Microservices Code Review Message 
 Load Testing Stay hungry, stay foolish. Big Data Pull Request Edge Computing Do what you love and the money will follow. Act as if what you do makes a difference. It does. Database Indexing Kubernetes WebSockets
 Automation Version Control Content Delivery Network UX Optimization If you can dream it, you can do it. Database Indexing Data Science Monitoring Pull Request Sharding
 Performance Virtual Machines Sharding Zero Downtime Deployment Message Queue API Serverless Database Indexing If you can dream it, you can do it.
+Container Orchestration Content Delivery Network Framework Event Sourcing Cloud Functions Success is not in what you have, but who you are. Monitoring Frontend Data Pipeline CI/CD Simplicity is the ultimate sophistication. Dream big and dare to fail.
