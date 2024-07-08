@@ -26,3 +26,4 @@ Opportunities don't happen. You create them. Algorithm Success doesn’t just find
 Optimization Artificial Intelligence Virtual Machines Cloud Functions Version Control Docker
 Database Indexing Zero Downtime Deployment DNS Routing Automation Database Load Balancing Server Response
 Containerization Server Response Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Dream big and dare to fail.
+Backend Performance Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Firewalls Scalability Multi-threading Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it.
