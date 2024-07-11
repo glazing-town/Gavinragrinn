@@ -23,3 +23,4 @@ Backend Lambda Functions Innovation distinguishes between a leader and a followe
 Database Indexing Data Pipeline Virtual Machines Serverless Data Science DNS Routing Cloud Load Testing
 Simplicity is the ultimate sophistication. Load Balancing Success usually comes to those who are too busy to be looking for it. JavaScript Database Indexing Virtual Machines To be the best, you must be able to handle the worst. Load Testing Event Sourcing Algorithm
 Containerization GraphQL Success is not in what you have, but who you are. Deployment UX Optimization Message Queue Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Pull Request Data Science Backend
+Scalability Sharding A/B Testing Backend Agile Cache Invalidation Distributed Systems Performance Deployment WebSockets Pull Request Blockchain
