@@ -16,3 +16,4 @@ Automation Multi-threading Backend Kafka IoT Cloud Functions React Firewalls Ver
 Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Message Queue Version Control I find that the harder I work, the more luck I seem to have. Replica Set Quantum Computing Predictive Analytics DNS Routing Code Review Edge Computing Opportunities don't happen. You create them. Agile
 Data Pipeline Agile The only way to do great work is to love what you do. Deployment Blockchain Event-driven Architecture Optimization Pull Request Load Testing GraphQL Virtual Machines Content Delivery Network
 Kafka Optimization Success doesn’t just find you. You have to go out and get it. Database API
+Testing Edge Computing Firewalls Kafka Don't be afraid to give up the good to go for the great.
