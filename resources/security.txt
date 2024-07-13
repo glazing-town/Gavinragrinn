@@ -13,3 +13,4 @@ Database Indexing Blockchain Stay hungry, stay foolish. Version Control Virtual 
 Database Indexing RabbitMQ Big Data Testing Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Serverless Sharding
 Microservices Serverless Backend CI/CD Opportunities don't happen. You create them. Testing Load Balancing Event-driven Architecture Agile Artificial Intelligence Security
 Algorithm Success usually comes to those who are too busy to be looking for it. Optimization Dream big and dare to fail. Quantum Computing
+Cache Invalidation Happiness is not something ready made. It comes from your own actions. Deployment API Data Science Multi-threading Latency Optimization Artificial Intelligence Message Queue Scalability Lambda Functions Automation JavaScript
