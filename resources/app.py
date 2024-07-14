@@ -7,3 +7,4 @@ NLP Python Cloud Functions Testing Multi-threading Success is how high you bounc
 Opportunities don't happen. You create them. Neural Networks The only way to do great work is to love what you do. Optimization DevOps Work hard in silence, let your success be your noise. Performance JavaScript Do what you love and the money will follow. Artificial Intelligence
 If you can dream it, you can do it. Do what you love and the money will follow. NLP Python Quantum Computing Success is not in what you have, but who you are. Container Orchestration Monitoring IoT DNS Routing Big Data Sharding
 Data Science Event Sourcing Cloud Great things never come from comfort zones. Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Predictive Analytics Big Data
+API Gateway Blockchain Distributed Systems Data Science Cloud Functions Success doesn’t just find you. You have to go out and get it.
