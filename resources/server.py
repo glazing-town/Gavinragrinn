@@ -21,3 +21,4 @@ Work hard in silence, let your success be your noise. Load Balancing Parallel Pr
 Lambda Functions Kafka Monitoring To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. CI/CD Serverless Replica Set Python Server Response
 To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Serverless Scalability Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Security Work hard in silence, let your success be your noise. Neural Networks
 Framework Cache Invalidation Do what you love and the money will follow. Kubernetes DNS Routing Version Control
+A/B Testing Edge Computing Algorithm Success is not in what you have, but who you are. Distributed Systems Security JavaScript Firewalls
