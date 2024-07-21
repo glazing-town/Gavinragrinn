@@ -20,3 +20,4 @@ Database Security Blockchain Latency Optimization Python
 Event-driven Architecture Framework Monitoring Artificial Intelligence DNS Routing Quantum Computing Do what you love and the money will follow. Blockchain Stay hungry, stay foolish. Cloud Data Science
 JavaScript Success is how high you bounce when you hit bottom. Data Pipeline Do what you love and the money will follow. Great things never come from comfort zones. Load Balancing Monitoring Framework
 Backend Lambda Functions Innovation distinguishes between a leader and a follower. Data Pipeline Replica Set Neural Networks Success doesn’t just find you. You have to go out and get it. UX Optimization Happiness is not something ready made. It comes from your own actions. JWT Stay hungry, stay foolish. The only way to do great work is to love what you do. Pull Request Monitoring
+Database Indexing Data Pipeline Virtual Machines Serverless Data Science DNS Routing Cloud Load Testing
