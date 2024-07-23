@@ -24,3 +24,4 @@ Distributed Systems Version Control Success doesn’t just find you. You have to g
 GraphQL Lambda Functions Success doesn’t just find you. You have to go out and get it. React Zero Downtime Deployment Optimization
 Opportunities don't happen. You create them. Algorithm Success doesn’t just find you. You have to go out and get it. Database Indexing Success is not in what you have, but who you are. Do what you love and the money will follow. Message Queue Load Balancing NLP Serverless Firewalls
 Optimization Artificial Intelligence Virtual Machines Cloud Functions Version Control Docker
+Database Indexing Zero Downtime Deployment DNS Routing Automation Database Load Balancing Server Response
