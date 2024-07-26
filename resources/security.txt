@@ -11,3 +11,4 @@ Cache Invalidation CI/CD Agile Replica Set Performance RabbitMQ Logging Predicti
 Container Orchestration Optimization Performance Frontend Innovation distinguishes between a leader and a follower. Event Sourcing Testing
 Database Indexing Blockchain Stay hungry, stay foolish. Version Control Virtual Machines Content Delivery Network
 Database Indexing RabbitMQ Big Data Testing Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Serverless Sharding
+Microservices Serverless Backend CI/CD Opportunities don't happen. You create them. Testing Load Balancing Event-driven Architecture Agile Artificial Intelligence Security
