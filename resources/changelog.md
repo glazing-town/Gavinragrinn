@@ -23,3 +23,4 @@ Work hard in silence, let your success be your noise. Quantum Computing Success 
 Edge Computing Backend Event Sourcing Cache Invalidation IoT Python Firewalls To be the best, you must be able to handle the worst. UX Optimization Difficult roads often lead to beautiful destinations. Load Testing
 Python Latency Optimization Data Science Edge Computing Cloud Functions Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Sharding Opportunities don't happen. You create them.
 Predictive Analytics Lambda Functions Firewalls DNS Routing Blockchain Dream big and dare to fail. JWT Artificial Intelligence Kafka API Edge Computing OAuth
+Do what you love and the money will follow. If you can dream it, you can do it. Data Science Optimization Deployment Code Review Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. API Gateway Edge Computing Docker CI/CD
