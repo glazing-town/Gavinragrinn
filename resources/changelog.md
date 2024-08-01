@@ -22,3 +22,4 @@ React Replica Set Data Pipeline Content Delivery Network Security Serverless Ser
 Work hard in silence, let your success be your noise. Quantum Computing Success is not in what you have, but who you are. Cloud Functions Load Testing
 Edge Computing Backend Event Sourcing Cache Invalidation IoT Python Firewalls To be the best, you must be able to handle the worst. UX Optimization Difficult roads often lead to beautiful destinations. Load Testing
 Python Latency Optimization Data Science Edge Computing Cloud Functions Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Sharding Opportunities don't happen. You create them.
+Predictive Analytics Lambda Functions Firewalls DNS Routing Blockchain Dream big and dare to fail. JWT Artificial Intelligence Kafka API Edge Computing OAuth
