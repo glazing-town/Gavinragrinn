@@ -19,3 +19,4 @@ Kubernetes The only way to do great work is to love what you do. Virtual Machine
 Database Multi-threading API Gateway Security Microservices Code Review Message Queue Replica Set RabbitMQ
 Load Testing Stay hungry, stay foolish. Big Data Pull Request Edge Computing Do what you love and the money will follow. Act as if what you do makes a difference. It does. Database Indexing Kubernetes WebSockets
 Automation Version Control Content Delivery Network UX Optimization If you can dream it, you can do it. Database Indexing Data Science Monitoring Pull Request Sharding
+Performance Virtual Machines Sharding Zero Downtime Deployment Message Queue API Serverless Database Indexing If you can dream it, you can do it.
