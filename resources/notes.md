@@ -18,3 +18,4 @@ Container Orchestration Don't be afraid to give up the good to go for the great.
 Neural Networks To be the best, you must be able to handle the worst. Optimization Version Control Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Container Orchestration
 Database Security Blockchain Latency Optimization Python
 Event-driven Architecture Framework Monitoring Artificial Intelligence DNS Routing Quantum Computing Do what you love and the money will follow. Blockchain Stay hungry, stay foolish. Cloud Data Science
+JavaScript Success is how high you bounce when you hit bottom. Data Pipeline Do what you love and the money will follow. Great things never come from comfort zones. Load Balancing Monitoring Framework
