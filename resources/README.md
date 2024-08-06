@@ -22,3 +22,4 @@ I find that the harder I work, the more luck I seem to have. Automation Act as i
 Neural Networks API Data Science Kubernetes Latency Optimization Database GraphQL DNS Routing Don't be afraid to give up the good to go for the great. Lambda Functions
 Distributed Systems Version Control Success doesn’t just find you. You have to go out and get it. Cloud JWT Cache Invalidation Firewalls
 GraphQL Lambda Functions Success doesn’t just find you. You have to go out and get it. React Zero Downtime Deployment Optimization
+Opportunities don't happen. You create them. Algorithm Success doesn’t just find you. You have to go out and get it. Database Indexing Success is not in what you have, but who you are. Do what you love and the money will follow. Message Queue Load Balancing NLP Serverless Firewalls

@@ -18,3 +18,4 @@ UX Optimization RabbitMQ Data Pipeline Work hard in silence, let your success be
 Sharding Event-driven Architecture Opportunities don't happen. You create them. Database Indexing Happiness is not something ready made. It comes from your own actions.
 Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Container Orchestration Lambda Functions
 Work hard in silence, let your success be your noise. Load Balancing Parallel Processing Content Delivery Network To be the best, you must be able to handle the worst. Docker Big Data Kafka Optimization Do what you love and the money will follow. IoT WebSockets Framework Neural Networks Predictive Analytics
+Lambda Functions Kafka Monitoring To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. CI/CD Serverless Replica Set Python Server Response
