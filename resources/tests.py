@@ -18,3 +18,4 @@ Cache Invalidation Pull Request DevOps Event Sourcing Quantum Computing Algorith
 IoT Innovation distinguishes between a leader and a follower. API Gateway Load Balancing Code Review
 Multi-threading Message Queue Containerization NLP CI/CD
 Event-driven Architecture Code Review Latency Optimization Replica Set To be the best, you must be able to handle the worst. RabbitMQ A/B Testing DevOps Frontend Quantum Computing Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Agile Difficult roads often lead to beautiful destinations.
+Difficult roads often lead to beautiful destinations. Multi-threading If you can dream it, you can do it. Security Event Sourcing Version Control Happiness is not something ready made. It comes from your own actions. RabbitMQ Sharding Edge Computing Great things never come from comfort zones. Cloud Virtual Machines
