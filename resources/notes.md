@@ -17,3 +17,4 @@ Work hard in silence, let your success be your noise. Replica Set Predictive Ana
 Container Orchestration Don't be afraid to give up the good to go for the great. Deployment Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Kafka Cloud Microservices Big Data Distributed Systems
 Neural Networks To be the best, you must be able to handle the worst. Optimization Version Control Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Container Orchestration
 Database Security Blockchain Latency Optimization Python
+Event-driven Architecture Framework Monitoring Artificial Intelligence DNS Routing Quantum Computing Do what you love and the money will follow. Blockchain Stay hungry, stay foolish. Cloud Data Science
