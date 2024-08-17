@@ -20,3 +20,4 @@ Python To be the best, you must be able to handle the worst. Performance Databas
 Load Balancing Sharding Version Control Machine Learning Cloud Automation Event Sourcing Backend
 I find that the harder I work, the more luck I seem to have. Automation Act as if what you do makes a difference. It does. Containerization Sharding Python
 Neural Networks API Data Science Kubernetes Latency Optimization Database GraphQL DNS Routing Don't be afraid to give up the good to go for the great. Lambda Functions
+Distributed Systems Version Control Success doesn’t just find you. You have to go out and get it. Cloud JWT Cache Invalidation Firewalls
