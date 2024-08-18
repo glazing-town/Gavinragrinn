@@ -19,3 +19,4 @@ Success is not in what you have, but who you are. Sharding If you can dream it, 
 Python To be the best, you must be able to handle the worst. Performance Database Success is how high you bounce when you hit bottom. Blockchain Success usually comes to those who are too busy to be looking for it.
 Load Balancing Sharding Version Control Machine Learning Cloud Automation Event Sourcing Backend
 I find that the harder I work, the more luck I seem to have. Automation Act as if what you do makes a difference. It does. Containerization Sharding Python
+Neural Networks API Data Science Kubernetes Latency Optimization Database GraphQL DNS Routing Don't be afraid to give up the good to go for the great. Lambda Functions
