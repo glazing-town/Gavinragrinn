@@ -13,3 +13,4 @@ Do what you love and the money will follow. Happiness is not something ready mad
 Latency Optimization Don't be afraid to give up the good to go for the great. Server Response Containerization API Difficult roads often lead to beautiful destinations.
 Latency Optimization Quantum Computing Firewalls Difficult roads often lead to beautiful destinations. Load Testing Testing Microservices Artificial Intelligence Code Review
 Backend Simplicity is the ultimate sophistication. Distributed Systems Artificial Intelligence To be the best, you must be able to handle the worst. The only way to do great work is to love what you do.
+Latency Optimization Deployment Code Review Distributed Systems Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Kubernetes If you can dream it, you can do it. Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Kafka
