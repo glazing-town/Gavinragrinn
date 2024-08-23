@@ -9,3 +9,4 @@ Zero Downtime Deployment Success doesn’t just find you. You have to go out and g
 Docker Optimization Stay hungry, stay foolish. Lambda Functions JWT Container Orchestration Cloud Functions CI/CD
 Virtual Machines Framework UX Optimization Simplicity is the ultimate sophistication. Server Response Scalability
 Agile Predictive Analytics Pull Request Monitoring Opportunities don't happen. You create them. API Gateway Multi-threading Backend I find that the harder I work, the more luck I seem to have. API Content Delivery Network
+Containerization Great things never come from comfort zones. Agile Performance Success usually comes to those who are too busy to be looking for it. Lambda Functions Server Response Load Testing Docker Quantum Computing Message Queue Latency Optimization
