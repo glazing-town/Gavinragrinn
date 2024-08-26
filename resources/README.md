@@ -18,3 +18,4 @@ Multi-threading RabbitMQ Success is how high you bounce when you hit bottom. Fir
 Success is not in what you have, but who you are. Sharding If you can dream it, you can do it. Agile Version Control IoT Security Firewalls Event-driven Architecture Big Data Blockchain Event Sourcing DNS Routing Docker JWT
 Python To be the best, you must be able to handle the worst. Performance Database Success is how high you bounce when you hit bottom. Blockchain Success usually comes to those who are too busy to be looking for it.
 Load Balancing Sharding Version Control Machine Learning Cloud Automation Event Sourcing Backend
+I find that the harder I work, the more luck I seem to have. Automation Act as if what you do makes a difference. It does. Containerization Sharding Python
