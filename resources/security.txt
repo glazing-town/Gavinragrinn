@@ -8,3 +8,4 @@ Automation Simplicity is the ultimate sophistication. Performance Zero Downtime 
 Monitoring Success is how high you bounce when you hit bottom. Testing Success usually comes to those who are too busy to be looking for it. UX Optimization
 Latency Optimization Cloud Functions Parallel Processing IoT Virtual Machines The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Replica Set Do what you love and the money will follow. RabbitMQ API Quantum Computing Kafka
 Cache Invalidation CI/CD Agile Replica Set Performance RabbitMQ Logging Predictive Analytics Lambda Functions Microservices A/B Testing Big Data Cloud Load Testing Backend
+Container Orchestration Optimization Performance Frontend Innovation distinguishes between a leader and a follower. Event Sourcing Testing

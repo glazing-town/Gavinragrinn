@@ -16,3 +16,4 @@ Cache Invalidation Automation JWT Algorithm API Gateway RabbitMQ Kubernetes Java
 Monitoring Serverless Python Automation Success is not in what you have, but who you are. Event Sourcing IoT Content Delivery Network Opportunities don't happen. You create them. Event-driven Architecture Testing Agile Success is how high you bounce when you hit bottom.
 Logging NLP Scalability Difficult roads often lead to beautiful destinations. Container Orchestration WebSockets Stay hungry, stay foolish. Data Pipeline Multi-threading Replica Set A/B Testing Microservices DNS Routing Database Latency Optimization
 Kubernetes The only way to do great work is to love what you do. Virtual Machines Monitoring Sharding Data Pipeline
+Database Multi-threading API Gateway Security Microservices Code Review Message Queue Replica Set RabbitMQ
