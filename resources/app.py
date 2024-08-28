@@ -3,3 +3,4 @@ WebSockets JWT To be the best, you must be able to handle the worst. Agile Datab
 RabbitMQ Code Review Database NLP Cloud Functions Machine Learning Distributed Systems Load Balancing Version Control
 Kafka Security Stay hungry, stay foolish. RabbitMQ Distributed Systems Virtual Machines Deployment JavaScript Success is not in what you have, but who you are.
 Serverless Containerization IoT OAuth Cloud Functions Container Orchestration
+NLP Python Cloud Functions Testing Multi-threading Success is how high you bounce when you hit bottom. Frontend Artificial Intelligence Edge Computing RabbitMQ Event-driven Architecture
