@@ -14,3 +14,4 @@ Firewalls Optimization I find that the harder I work, the more luck I seem to ha
 Innovation distinguishes between a leader and a follower. Testing Machine Learning Data Science CI/CD Kubernetes Zero Downtime Deployment Version Control
 Predictive Analytics Message Queue Backend Virtual Machines Database Indexing Multi-threading Deployment Microservices Load Testing Act as if what you do makes a difference. It does. If you can dream it, you can do it.
 NLP DNS Routing Cache Invalidation Agile Backend Container Orchestration
+Data Pipeline DNS Routing Cache Invalidation I find that the harder I work, the more luck I seem to have. Sharding Success doesn’t just find you. You have to go out and get it. Firewalls A/B Testing CI/CD JavaScript Virtual Machines Load Testing Algorithm
