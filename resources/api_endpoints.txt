@@ -8,3 +8,4 @@ Multi-threading API Gateway Serverless Lambda Functions Edge Computing Great thi
 DevOps Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Server Response Neural Networks API Do what you love and the money will follow. Data Pipeline Don't be afraid to give up the good to go for the great. Security OAuth Algorithm UX Optimization Multi-threading
 Neural Networks Load Testing API Simplicity is the ultimate sophistication. Lambda Functions Agile
 UX Optimization Neural Networks Event Sourcing RabbitMQ WebSockets
+Edge Computing Code Review Testing Difficult roads often lead to beautiful destinations. Cache Invalidation Firewalls Lambda Functions Act as if what you do makes a difference. It does.
