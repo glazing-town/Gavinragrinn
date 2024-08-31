@@ -15,3 +15,4 @@ Do what you love and the money will follow. Blockchain Work hard in silence, let
 Stay hungry, stay foolish. API JWT API Gateway Data Science
 A/B Testing Quantum Computing Neural Networks Cloud Optimization Latency Optimization If you can dream it, you can do it. Firewalls Parallel Processing Innovation distinguishes between a leader and a follower. Data Science
 UX Optimization RabbitMQ Data Pipeline Work hard in silence, let your success be your noise. Latency Optimization Serverless Framework Multi-threading Monitoring Cache Invalidation JWT Neural Networks Content Delivery Network
+Sharding Event-driven Architecture Opportunities don't happen. You create them. Database Indexing Happiness is not something ready made. It comes from your own actions.
