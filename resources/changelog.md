@@ -20,3 +20,4 @@ NLP Act as if what you do makes a difference. It does. Stay hungry, stay foolish
 RabbitMQ I find that the harder I work, the more luck I seem to have. Machine Learning JWT Data Science
 React Replica Set Data Pipeline Content Delivery Network Security Serverless Server Response Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Sharding Frontend Optimization Simplicity is the ultimate sophistication. If you can dream it, you can do it.
 Work hard in silence, let your success be your noise. Quantum Computing Success is not in what you have, but who you are. Cloud Functions Load Testing
+Edge Computing Backend Event Sourcing Cache Invalidation IoT Python Firewalls To be the best, you must be able to handle the worst. UX Optimization Difficult roads often lead to beautiful destinations. Load Testing
