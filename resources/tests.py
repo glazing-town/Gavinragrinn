@@ -16,3 +16,4 @@ Server Response I find that the harder I work, the more luck I seem to have. Clo
 GraphQL NLP Cloud Blockchain Agile The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Lambda Functions JavaScript Load Testing Microservices Quantum Computing Parallel Processing Opportunities don't happen. You create them. Kubernetes
 Cache Invalidation Pull Request DevOps Event Sourcing Quantum Computing Algorithm Message Queue JavaScript Predictive Analytics Virtual Machines Replica Set Load Balancing Cloud Latency Optimization
 IoT Innovation distinguishes between a leader and a follower. API Gateway Load Balancing Code Review
+Multi-threading Message Queue Containerization NLP CI/CD

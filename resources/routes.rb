@@ -19,3 +19,4 @@ Artificial Intelligence Quantum Computing Big Data To be the best, you must be a
 Pull Request Kubernetes Logging Security Big Data Python Frontend The only way to do great work is to love what you do. DNS Routing
 Performance If you can dream it, you can do it. Firewalls Kafka Testing Pull Request Virtual Machines Algorithm
 Opportunities don't happen. You create them. Multi-threading Parallel Processing Agile Scalability OAuth Event Sourcing Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Database
+Microservices Machine Learning Performance Container Orchestration Blockchain Do what you love and the money will follow. DevOps Lambda Functions Act as if what you do makes a difference. It does. Kafka Scalability Sharding Replica Set The only way to do great work is to love what you do.
