@@ -22,3 +22,4 @@ Framework Difficult roads often lead to beautiful destinations. Load Balancing S
 CI/CD WebSockets Security Neural Networks Frontend Algorithm Logging API Gateway Content Delivery Network Database Indexing Predictive Analytics
 Difficult roads often lead to beautiful destinations. Framework Database Deployment React
 Latency Optimization OAuth Version Control Cache Invalidation Monitoring Success is how high you bounce when you hit bottom. Data Science UX Optimization Event Sourcing GraphQL
+CI/CD Neural Networks Multi-threading Database Indexing Code Review Edge Computing Act as if what you do makes a difference. It does. Load Testing API Gateway Happiness is not something ready made. It comes from your own actions. Optimization
