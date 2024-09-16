@@ -12,3 +12,4 @@ Scalability Content Delivery Network Serverless Dream big and dare to fail. Micr
 Optimization IoT Simplicity is the ultimate sophistication. Predictive Analytics Database
 Automation Data Science Success doesn’t just find you. You have to go out and get it. Cache Invalidation NLP Work hard in silence, let your success be your noise. Zero Downtime Deployment OAuth Virtual Machines Parallel Processing Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Blockchain
 Kafka Load Testing Firewalls Backend Server Response Kubernetes Do what you love and the money will follow. A/B Testing JavaScript To be the best, you must be able to handle the worst.
+Cache Invalidation Automation JWT Algorithm API Gateway RabbitMQ Kubernetes JavaScript Work hard in silence, let your success be your noise. Python Database If you can dream it, you can do it. Predictive Analytics Quantum Computing

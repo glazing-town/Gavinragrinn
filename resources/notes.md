@@ -14,3 +14,4 @@ Security Difficult roads often lead to beautiful destinations. Frontend GraphQL 
 Database API Containerization Framework Multi-threading Big Data Data Pipeline Replica Set Blockchain Cloud Functions
 Artificial Intelligence Message Queue Event Sourcing API Cloud Functions Kubernetes Replica Set Version Control Distributed Systems Optimization
 Work hard in silence, let your success be your noise. Replica Set Predictive Analytics Serverless Firewalls Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. IoT Cloud Event-driven Architecture Framework Happiness is not something ready made. It comes from your own actions.
+Container Orchestration Don't be afraid to give up the good to go for the great. Deployment Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Kafka Cloud Microservices Big Data Distributed Systems
