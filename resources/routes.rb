@@ -18,3 +18,4 @@ The only way to do great work is to love what you do. Database API Firewalls Log
 Artificial Intelligence Quantum Computing Big Data To be the best, you must be able to handle the worst. Monitoring Sharding
 Pull Request Kubernetes Logging Security Big Data Python Frontend The only way to do great work is to love what you do. DNS Routing
 Performance If you can dream it, you can do it. Firewalls Kafka Testing Pull Request Virtual Machines Algorithm
+Opportunities don't happen. You create them. Multi-threading Parallel Processing Agile Scalability OAuth Event Sourcing Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Database

@@ -13,3 +13,4 @@ Database Indexing Stay hungry, stay foolish. I find that the harder I work, the 
 Security Difficult roads often lead to beautiful destinations. Frontend GraphQL Optimization Virtual Machines
 Database API Containerization Framework Multi-threading Big Data Data Pipeline Replica Set Blockchain Cloud Functions
 Artificial Intelligence Message Queue Event Sourcing API Cloud Functions Kubernetes Replica Set Version Control Distributed Systems Optimization
+Work hard in silence, let your success be your noise. Replica Set Predictive Analytics Serverless Firewalls Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. IoT Cloud Event-driven Architecture Framework Happiness is not something ready made. It comes from your own actions.
