@@ -15,3 +15,4 @@ Security WebSockets Code Review Innovation distinguishes between a leader and a 
 Neural Networks Success usually comes to those who are too busy to be looking for it. Data Science Kafka Simplicity is the ultimate sophistication. Testing Blockchain DNS Routing Load Balancing
 Act as if what you do makes a difference. It does. Neural Networks Agile Opportunities don't happen. You create them. Replica Set Algorithm Framework I find that the harder I work, the more luck I seem to have. JWT GraphQL Event-driven Architecture Zero Downtime Deployment DNS Routing
 Multi-threading RabbitMQ Success is how high you bounce when you hit bottom. Firewalls DevOps A/B Testing Algorithm Data Science
+Success is not in what you have, but who you are. Sharding If you can dream it, you can do it. Agile Version Control IoT Security Firewalls Event-driven Architecture Big Data Blockchain Event Sourcing DNS Routing Docker JWT

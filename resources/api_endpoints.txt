@@ -6,3 +6,4 @@ DevOps Database Data Pipeline Success is not in what you have, but who you are. 
 Great things never come from comfort zones. Quantum Computing RabbitMQ Cache Invalidation CI/CD Neural Networks Testing Security Monitoring Firewalls Machine Learning
 Multi-threading API Gateway Serverless Lambda Functions Edge Computing Great things never come from comfort zones. Parallel Processing Replica Set Virtual Machines Testing
 DevOps Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Server Response Neural Networks API Do what you love and the money will follow. Data Pipeline Don't be afraid to give up the good to go for the great. Security OAuth Algorithm UX Optimization Multi-threading
+Neural Networks Load Testing API Simplicity is the ultimate sophistication. Lambda Functions Agile

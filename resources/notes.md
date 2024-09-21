@@ -12,3 +12,4 @@ Cloud Functions JavaScript Database Indexing Artificial Intelligence GraphQL Tes
 Database Indexing Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Data Pipeline Quantum Computing Happiness is not something ready made. It comes from your own actions. CI/CD JavaScript
 Security Difficult roads often lead to beautiful destinations. Frontend GraphQL Optimization Virtual Machines
 Database API Containerization Framework Multi-threading Big Data Data Pipeline Replica Set Blockchain Cloud Functions
+Artificial Intelligence Message Queue Event Sourcing API Cloud Functions Kubernetes Replica Set Version Control Distributed Systems Optimization
