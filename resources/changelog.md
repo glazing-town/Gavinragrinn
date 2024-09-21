@@ -18,3 +18,4 @@ Data Pipeline Content Delivery Network Kubernetes JavaScript Great things never 
 Blockchain JavaScript Deployment Sharding Zero Downtime Deployment OAuth
 NLP Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Serverless Big Data Database Zero Downtime Deployment Success is how high you bounce when you hit bottom. API Gateway Microservices Performance Docker
 RabbitMQ I find that the harder I work, the more luck I seem to have. Machine Learning JWT Data Science
+React Replica Set Data Pipeline Content Delivery Network Security Serverless Server Response Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Sharding Frontend Optimization Simplicity is the ultimate sophistication. If you can dream it, you can do it.
