@@ -14,3 +14,4 @@ Docker DevOps Blockchain UX Optimization Opportunities don't happen. You create 
 Multi-threading Backend Data Science Optimization If you can dream it, you can do it.
 Kubernetes Success is how high you bounce when you hit bottom. Deployment Testing NLP Database Indexing Multi-threading
 Sharding Docker Virtual Machines Zero Downtime Deployment Content Delivery Network
+Difficult roads often lead to beautiful destinations. Load Testing Monitoring DNS Routing JWT Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Quantum Computing Cloud Functions To be the best, you must be able to handle the worst. Content Delivery Network Neural Networks Testing Multi-threading
