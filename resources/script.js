@@ -13,3 +13,4 @@ Success usually comes to those who are too busy to be looking for it. Blockchain
 Docker DevOps Blockchain UX Optimization Opportunities don't happen. You create them. Framework Algorithm Do what you love and the money will follow. Container Orchestration Distributed Systems Serverless Work hard in silence, let your success be your noise. Version Control
 Multi-threading Backend Data Science Optimization If you can dream it, you can do it.
 Kubernetes Success is how high you bounce when you hit bottom. Deployment Testing NLP Database Indexing Multi-threading
+Sharding Docker Virtual Machines Zero Downtime Deployment Content Delivery Network

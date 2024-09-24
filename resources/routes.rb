@@ -17,3 +17,4 @@ Parallel Processing Simplicity is the ultimate sophistication. Virtual Machines 
 The only way to do great work is to love what you do. Database API Firewalls Logging Scalability Success doesn’t just find you. You have to go out and get it. RabbitMQ Quantum Computing Machine Learning Load Testing I find that the harder I work, the more luck I seem to have. WebSockets
 Artificial Intelligence Quantum Computing Big Data To be the best, you must be able to handle the worst. Monitoring Sharding
 Pull Request Kubernetes Logging Security Big Data Python Frontend The only way to do great work is to love what you do. DNS Routing
+Performance If you can dream it, you can do it. Firewalls Kafka Testing Pull Request Virtual Machines Algorithm

@@ -17,3 +17,4 @@ Cloud Success is not in what you have, but who you are. Do what you love and the
 Data Pipeline Content Delivery Network Kubernetes JavaScript Great things never come from comfort zones. Scalability Success is how high you bounce when you hit bottom. Sharding API To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. DNS Routing Cloud Functions Event-driven Architecture Serverless
 Blockchain JavaScript Deployment Sharding Zero Downtime Deployment OAuth
 NLP Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Serverless Big Data Database Zero Downtime Deployment Success is how high you bounce when you hit bottom. API Gateway Microservices Performance Docker
+RabbitMQ I find that the harder I work, the more luck I seem to have. Machine Learning JWT Data Science
