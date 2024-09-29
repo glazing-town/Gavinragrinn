@@ -8,3 +8,4 @@ Virtual Machines Stay hungry, stay foolish. Sharding Database Indexing Innovatio
 Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Logging Database Stay hungry, stay foolish. A/B Testing Blockchain GraphQL Success is how high you bounce when you hit bottom. Monitoring Frontend Virtual Machines Big Data
 Docker Optimization Stay hungry, stay foolish. Lambda Functions JWT Container Orchestration Cloud Functions CI/CD
 Virtual Machines Framework UX Optimization Simplicity is the ultimate sophistication. Server Response Scalability
+Agile Predictive Analytics Pull Request Monitoring Opportunities don't happen. You create them. API Gateway Multi-threading Backend I find that the harder I work, the more luck I seem to have. API Content Delivery Network
