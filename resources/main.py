@@ -11,3 +11,4 @@ Event-driven Architecture IoT Lambda Functions NLP Zero Downtime Deployment Test
 Automation Simplicity is the ultimate sophistication. Sharding Optimization Serverless Machine Learning
 Distributed Systems Data Pipeline Sharding Microservices Agile WebSockets
 Version Control Blockchain Act as if what you do makes a difference. It does. Microservices Predictive Analytics Edge Computing Work hard in silence, let your success be your noise. Performance Code Review GraphQL Artificial Intelligence
+WebSockets Content Delivery Network If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Containerization Event-driven Architecture Version Control Artificial Intelligence
