@@ -9,3 +9,4 @@ Dream big and dare to fail. API DNS Routing Edge Computing NLP Framework Server 
 I find that the harder I work, the more luck I seem to have. Optimization CI/CD Content Delivery Network Neural Networks Testing Agile Event Sourcing If you can dream it, you can do it.
 Firewalls Machine Learning Database Testing Neural Networks
 DNS Routing Cloud Machine Learning Great things never come from comfort zones. Multi-threading
+Replica Set Python Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Content Delivery Network Docker Kubernetes Work hard in silence, let your success be your noise. Event Sourcing Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Deployment Cache Invalidation Blockchain

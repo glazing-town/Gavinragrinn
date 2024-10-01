@@ -11,3 +11,4 @@ Parallel Processing Pull Request Testing Code Review Success usually comes to th
 Cloud Functions JavaScript Database Indexing Artificial Intelligence GraphQL Testing Microservices Python
 Database Indexing Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Data Pipeline Quantum Computing Happiness is not something ready made. It comes from your own actions. CI/CD JavaScript
 Security Difficult roads often lead to beautiful destinations. Frontend GraphQL Optimization Virtual Machines
+Database API Containerization Framework Multi-threading Big Data Data Pipeline Replica Set Blockchain Cloud Functions
