@@ -9,3 +9,4 @@ Event-driven Architecture Server Response Distributed Systems Success is how hig
 Work hard in silence, let your success be your noise. Scalability Success doesn’t just find you. You have to go out and get it. Docker Data Science Edge Computing Neural Networks Great things never come from comfort zones. Do what you love and the money will follow. DevOps
 Event-driven Architecture IoT Lambda Functions NLP Zero Downtime Deployment Testing The only way to do great work is to love what you do. Virtual Machines Message Queue Security Server Response
 Automation Simplicity is the ultimate sophistication. Sharding Optimization Serverless Machine Learning
+Distributed Systems Data Pipeline Sharding Microservices Agile WebSockets

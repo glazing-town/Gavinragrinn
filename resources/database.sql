@@ -10,3 +10,4 @@ Machine Learning Framework Docker Containerization Innovation distinguishes betw
 The only way to do great work is to love what you do. Zero Downtime Deployment API Gateway WebSockets JavaScript Kafka Monitoring Load Balancing Firewalls Content Delivery Network Scalability Microservices Lambda Functions
 Scalability Content Delivery Network Serverless Dream big and dare to fail. Microservices Monitoring Load Testing Latency Optimization UX Optimization
 Optimization IoT Simplicity is the ultimate sophistication. Predictive Analytics Database
+Automation Data Science Success doesn’t just find you. You have to go out and get it. Cache Invalidation NLP Work hard in silence, let your success be your noise. Zero Downtime Deployment OAuth Virtual Machines Parallel Processing Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Blockchain
