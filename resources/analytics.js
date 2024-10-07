@@ -9,3 +9,4 @@ Great things never come from comfort zones. The only way to do great work is to 
 Quantum Computing Monitoring JWT Event Sourcing Message Queue To be the best, you must be able to handle the worst. Kubernetes Performance Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Testing Firewalls
 Algorithm A/B Testing Automation Artificial Intelligence IoT Monitoring DevOps
 Load Testing Pull Request Success doesn’t just find you. You have to go out and get it. OAuth Algorithm Quantum Computing Server Response Success is how high you bounce when you hit bottom. Agile Don't be afraid to give up the good to go for the great.
+JavaScript Deployment Do what you love and the money will follow. Pull Request UX Optimization Stay hungry, stay foolish. Performance Opportunities don't happen. You create them. Latency Optimization Database Indexing Testing WebSockets Container Orchestration
