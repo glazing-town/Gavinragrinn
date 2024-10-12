@@ -10,3 +10,4 @@ Monitoring Zero Downtime Deployment Sharding Do what you love and the money will
 To be the best, you must be able to handle the worst. Artificial Intelligence Do what you love and the money will follow. Performance Stay hungry, stay foolish. Scalability
 Frontend RabbitMQ Message Queue Artificial Intelligence Great things never come from comfort zones. Content Delivery Network Serverless Python Stay hungry, stay foolish. Automation JavaScript Load Testing
 Agile Parallel Processing API Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Optimization Firewalls IoT
+NLP Simplicity is the ultimate sophistication. Security Monitoring UX Optimization Dream big and dare to fail. Kafka Testing Edge Computing Optimization Microservices GraphQL Deployment Don't be afraid to give up the good to go for the great.

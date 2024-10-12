@@ -10,3 +10,4 @@ Don't be afraid to give up the good to go for the great. Performance Sharding Gr
 Parallel Processing Pull Request Testing Code Review Success usually comes to those who are too busy to be looking for it. Docker Distributed Systems RabbitMQ Artificial Intelligence
 Cloud Functions JavaScript Database Indexing Artificial Intelligence GraphQL Testing Microservices Python
 Database Indexing Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Data Pipeline Quantum Computing Happiness is not something ready made. It comes from your own actions. CI/CD JavaScript
+Security Difficult roads often lead to beautiful destinations. Frontend GraphQL Optimization Virtual Machines
