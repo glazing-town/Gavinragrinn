@@ -17,3 +17,4 @@ Cache Invalidation Artificial Intelligence Firewalls Database Indexing Event-dri
 Microservices Firewalls Virtual Machines Content Delivery Network Distributed Systems Predictive Analytics Quantum Computing
 NLP Blockchain The only way to do great work is to love what you do. Message Queue Machine Learning Replica Set I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Great things never come from comfort zones. A/B Testing Security OAuth
 Code Review I find that the harder I work, the more luck I seem to have. Containerization UX Optimization Version Control Scalability JavaScript A/B Testing Difficult roads often lead to beautiful destinations. Big Data Logging Testing RabbitMQ
+Zero Downtime Deployment GraphQL Testing Great things never come from comfort zones. Version Control Cloud JWT Security Docker Predictive Analytics DNS Routing Quantum Computing

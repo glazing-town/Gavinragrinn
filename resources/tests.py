@@ -14,3 +14,4 @@ Containerization IoT UX Optimization Performance Message Queue
 Latency Optimization Version Control Microservices Stay hungry, stay foolish. Serverless Kafka RabbitMQ JavaScript Docker IoT Database Indexing
 Server Response I find that the harder I work, the more luck I seem to have. Cloud Deployment Docker Monitoring Security Backend JWT CI/CD API Gateway Success doesn’t just find you. You have to go out and get it. Replica Set
 GraphQL NLP Cloud Blockchain Agile The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Lambda Functions JavaScript Load Testing Microservices Quantum Computing Parallel Processing Opportunities don't happen. You create them. Kubernetes
+Cache Invalidation Pull Request DevOps Event Sourcing Quantum Computing Algorithm Message Queue JavaScript Predictive Analytics Virtual Machines Replica Set Load Balancing Cloud Latency Optimization
