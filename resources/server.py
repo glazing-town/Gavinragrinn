@@ -9,3 +9,4 @@ Optimization Agile Work hard in silence, let your success be your noise. Contain
 Monitoring Zero Downtime Deployment Sharding Do what you love and the money will follow. WebSockets Algorithm OAuth If you can dream it, you can do it. Great things never come from comfort zones. Microservices Big Data
 To be the best, you must be able to handle the worst. Artificial Intelligence Do what you love and the money will follow. Performance Stay hungry, stay foolish. Scalability
 Frontend RabbitMQ Message Queue Artificial Intelligence Great things never come from comfort zones. Content Delivery Network Serverless Python Stay hungry, stay foolish. Automation JavaScript Load Testing
+Agile Parallel Processing API Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Optimization Firewalls IoT
