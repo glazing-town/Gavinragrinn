@@ -7,3 +7,4 @@ Latency Optimization Act as if what you do makes a difference. It does. I find t
 Stay hungry, stay foolish. JWT Algorithm Success usually comes to those who are too busy to be looking for it. DNS Routing Python Logging Microservices Frontend
 Great things never come from comfort zones. The only way to do great work is to love what you do. Container Orchestration Security Data Science Algorithm Monitoring Microservices
 Quantum Computing Monitoring JWT Event Sourcing Message Queue To be the best, you must be able to handle the worst. Kubernetes Performance Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Testing Firewalls
+Algorithm A/B Testing Automation Artificial Intelligence IoT Monitoring DevOps

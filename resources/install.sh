@@ -6,3 +6,4 @@ DNS Routing Success is how high you bounce when you hit bottom. The only way to 
 Load Testing Big Data API Gateway Do what you love and the money will follow. Lambda Functions Automation UX Optimization
 Microservices Security GraphQL Big Data Server Response Python Kafka
 Dream big and dare to fail. API DNS Routing Edge Computing NLP Framework Server Response Event-driven Architecture Event Sourcing Algorithm Performance Python IoT
+I find that the harder I work, the more luck I seem to have. Optimization CI/CD Content Delivery Network Neural Networks Testing Agile Event Sourcing If you can dream it, you can do it.
