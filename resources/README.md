@@ -13,3 +13,4 @@ Happiness is not something ready made. It comes from your own actions. Distribut
 Opportunities don't happen. You create them. Security Cloud Functions Testing If you can dream it, you can do it.
 Security WebSockets Code Review Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
 Neural Networks Success usually comes to those who are too busy to be looking for it. Data Science Kafka Simplicity is the ultimate sophistication. Testing Blockchain DNS Routing Load Balancing
+Act as if what you do makes a difference. It does. Neural Networks Agile Opportunities don't happen. You create them. Replica Set Algorithm Framework I find that the harder I work, the more luck I seem to have. JWT GraphQL Event-driven Architecture Zero Downtime Deployment DNS Routing
