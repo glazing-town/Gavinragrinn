@@ -14,3 +14,4 @@ Container Orchestration Replica Set Edge Computing Data Science Quantum Computin
 Virtual Machines Artificial Intelligence Sharding DNS Routing JavaScript Microservices Happiness is not something ready made. It comes from your own actions. A/B Testing
 I find that the harder I work, the more luck I seem to have. Server Response If you can dream it, you can do it. Predictive Analytics IoT Database Sharding Event Sourcing
 Cache Invalidation Artificial Intelligence Firewalls Database Indexing Event-driven Architecture I find that the harder I work, the more luck I seem to have. Predictive Analytics
+Microservices Firewalls Virtual Machines Content Delivery Network Distributed Systems Predictive Analytics Quantum Computing
