@@ -11,3 +11,4 @@ Latency Optimization If you can dream it, you can do it. Success is how high you
 API Gateway Container Orchestration Performance Blockchain Agile Zero Downtime Deployment Version Control Multi-threading Virtual Machines I find that the harder I work, the more luck I seem to have.
 Success usually comes to those who are too busy to be looking for it. Blockchain OAuth Database Performance Docker Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom. Cloud Predictive Analytics
 Docker DevOps Blockchain UX Optimization Opportunities don't happen. You create them. Framework Algorithm Do what you love and the money will follow. Container Orchestration Distributed Systems Serverless Work hard in silence, let your success be your noise. Version Control
+Multi-threading Backend Data Science Optimization If you can dream it, you can do it.
