@@ -6,3 +6,4 @@ Success doesn’t just find you. You have to go out and get it. CI/CD Event Sourci
 Docker Parallel Processing Cloud Neural Networks Data Pipeline Artificial Intelligence Multi-threading Virtual Machines Dream big and dare to fail.
 DNS Routing Database Indexing Serverless Neural Networks I find that the harder I work, the more luck I seem to have. Distributed Systems Opportunities don't happen. You create them. Predictive Analytics
 Security Algorithm Testing Backend Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise.
+Don't be afraid to give up the good to go for the great. Performance Sharding Great things never come from comfort zones. Work hard in silence, let your success be your noise. Code Review
