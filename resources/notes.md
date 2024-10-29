@@ -7,3 +7,4 @@ Docker Parallel Processing Cloud Neural Networks Data Pipeline Artificial Intell
 DNS Routing Database Indexing Serverless Neural Networks I find that the harder I work, the more luck I seem to have. Distributed Systems Opportunities don't happen. You create them. Predictive Analytics
 Security Algorithm Testing Backend Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise.
 Don't be afraid to give up the good to go for the great. Performance Sharding Great things never come from comfort zones. Work hard in silence, let your success be your noise. Code Review
+Parallel Processing Pull Request Testing Code Review Success usually comes to those who are too busy to be looking for it. Docker Distributed Systems RabbitMQ Artificial Intelligence
