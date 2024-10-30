@@ -8,3 +8,4 @@ Do what you love and the money will follow. Big Data Backend Blockchain Database
 Optimization Agile Work hard in silence, let your success be your noise. Container Orchestration Cache Invalidation Version Control Microservices Firewalls Load Testing Virtual Machines Database Stay hungry, stay foolish.
 Monitoring Zero Downtime Deployment Sharding Do what you love and the money will follow. WebSockets Algorithm OAuth If you can dream it, you can do it. Great things never come from comfort zones. Microservices Big Data
 To be the best, you must be able to handle the worst. Artificial Intelligence Do what you love and the money will follow. Performance Stay hungry, stay foolish. Scalability
+Frontend RabbitMQ Message Queue Artificial Intelligence Great things never come from comfort zones. Content Delivery Network Serverless Python Stay hungry, stay foolish. Automation JavaScript Load Testing
