@@ -3,3 +3,4 @@ Predictive Analytics Container Orchestration Great things never come from comfor
 Opportunities don't happen. You create them. DevOps Innovation distinguishes between a leader and a follower. Algorithm Backend Cloud Security
 CI/CD Stay hungry, stay foolish. Testing Dream big and dare to fail. Cloud Functions Database Event Sourcing Database Indexing
 Load Balancing Blockchain Work hard in silence, let your success be your noise. Python Artificial Intelligence
+Data Science Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Frontend Event-driven Architecture Neural Networks Backend Lambda Functions Act as if what you do makes a difference. It does. Algorithm Cloud Functions Cloud
