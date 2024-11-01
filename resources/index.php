@@ -13,3 +13,4 @@ RabbitMQ Version Control If you can dream it, you can do it. Code Review Replica
 Container Orchestration Replica Set Edge Computing Data Science Quantum Computing Database Indexing Code Review Opportunities don't happen. You create them. WebSockets Content Delivery Network Act as if what you do makes a difference. It does.
 Virtual Machines Artificial Intelligence Sharding DNS Routing JavaScript Microservices Happiness is not something ready made. It comes from your own actions. A/B Testing
 I find that the harder I work, the more luck I seem to have. Server Response If you can dream it, you can do it. Predictive Analytics IoT Database Sharding Event Sourcing
+Cache Invalidation Artificial Intelligence Firewalls Database Indexing Event-driven Architecture I find that the harder I work, the more luck I seem to have. Predictive Analytics
