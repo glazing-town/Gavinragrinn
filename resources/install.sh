@@ -5,3 +5,4 @@ Logging Replica Set Message Queue DNS Routing Container Orchestration Monitoring
 DNS Routing Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Big Data A/B Testing WebSockets Edge Computing Blockchain OAuth Load Testing CI/CD Performance Machine Learning Innovation distinguishes between a leader and a follower. Firewalls
 Load Testing Big Data API Gateway Do what you love and the money will follow. Lambda Functions Automation UX Optimization
 Microservices Security GraphQL Big Data Server Response Python Kafka
+Dream big and dare to fail. API DNS Routing Edge Computing NLP Framework Server Response Event-driven Architecture Event Sourcing Algorithm Performance Python IoT
