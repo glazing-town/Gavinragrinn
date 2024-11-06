@@ -4,3 +4,4 @@ Act as if what you do makes a difference. It does. Agile Edge Computing Version 
 To be the best, you must be able to handle the worst. Data Pipeline Data Science I find that the harder I work, the more luck I seem to have. Optimization React Cloud Containerization Blockchain Frontend Success is how high you bounce when you hit bottom. Serverless Server Response JWT
 Success doesn’t just find you. You have to go out and get it. CI/CD Event Sourcing Firewalls RabbitMQ NLP Sharding Artificial Intelligence Testing React
 Docker Parallel Processing Cloud Neural Networks Data Pipeline Artificial Intelligence Multi-threading Virtual Machines Dream big and dare to fail.
+DNS Routing Database Indexing Serverless Neural Networks I find that the harder I work, the more luck I seem to have. Distributed Systems Opportunities don't happen. You create them. Predictive Analytics
