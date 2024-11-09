@@ -11,3 +11,4 @@ Success is how high you bounce when you hit bottom. Container Orchestration Auto
 Blockchain Do what you love and the money will follow. Container Orchestration Multi-threading Testing Code Review Event Sourcing Quantum Computing
 Happiness is not something ready made. It comes from your own actions. Distributed Systems Don't be afraid to give up the good to go for the great. Version Control Zero Downtime Deployment Message Queue Docker JavaScript GraphQL Frontend Stay hungry, stay foolish. Code Review Predictive Analytics
 Opportunities don't happen. You create them. Security Cloud Functions Testing If you can dream it, you can do it.
+Security WebSockets Code Review Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
