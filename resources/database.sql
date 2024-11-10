@@ -7,3 +7,4 @@ Automation Logging To be the best, you must be able to handle the worst. Docker 
 UX Optimization Difficult roads often lead to beautiful destinations. Load Testing Quantum Computing Scalability A/B Testing Stay hungry, stay foolish. Version Control Docker Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great.
 Work hard in silence, let your success be your noise. Event-driven Architecture Firewalls Python Algorithm Version Control Cloud
 Machine Learning Framework Docker Containerization Innovation distinguishes between a leader and a follower. Data Pipeline Deployment Cloud Quantum Computing Database NLP Agile
+The only way to do great work is to love what you do. Zero Downtime Deployment API Gateway WebSockets JavaScript Kafka Monitoring Load Balancing Firewalls Content Delivery Network Scalability Microservices Lambda Functions
