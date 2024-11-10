@@ -8,3 +8,4 @@ Backend Framework Big Data Don't be afraid to give up the good to go for the gre
 Deployment Algorithm WebSockets Cache Invalidation Lambda Functions Act as if what you do makes a difference. It does. Data Pipeline Scalability Artificial Intelligence
 Simplicity is the ultimate sophistication. Containerization GraphQL Latency Optimization Code Review Success is not in what you have, but who you are.
 Latency Optimization If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Event-driven Architecture Deployment Artificial Intelligence Logging
+API Gateway Container Orchestration Performance Blockchain Agile Zero Downtime Deployment Version Control Multi-threading Virtual Machines I find that the harder I work, the more luck I seem to have.
