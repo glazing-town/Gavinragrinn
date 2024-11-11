@@ -4,3 +4,4 @@ Testing OAuth CI/CD Edge Computing If you can dream it, you can do it. Data Scie
 Success is not in what you have, but who you are. Version Control Pull Request Serverless Optimization Virtual Machines Blockchain Opportunities don't happen. You create them. Big Data Containerization Event-driven Architecture
 Content Delivery Network Edge Computing Framework Frontend Docker Cloud Functions Python
 Success doesn’t just find you. You have to go out and get it. Automation UX Optimization Logging I find that the harder I work, the more luck I seem to have. Firewalls Do what you love and the money will follow. Container Orchestration Replica Set Frontend Serverless API Gateway If you can dream it, you can do it. Microservices Code Review
+Database If you can dream it, you can do it. Event Sourcing Code Review Version Control Server Response Success is how high you bounce when you hit bottom. Replica Set Performance
