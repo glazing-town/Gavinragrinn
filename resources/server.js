@@ -3,3 +3,4 @@ JavaScript OAuth Load Testing Latency Optimization Logging Framework Event-drive
 Testing OAuth CI/CD Edge Computing If you can dream it, you can do it. Data Science Replica Set Dream big and dare to fail. UX Optimization Security A/B Testing Python Sharding RabbitMQ API Gateway
 Success is not in what you have, but who you are. Version Control Pull Request Serverless Optimization Virtual Machines Blockchain Opportunities don't happen. You create them. Big Data Containerization Event-driven Architecture
 Content Delivery Network Edge Computing Framework Frontend Docker Cloud Functions Python
+Success doesn’t just find you. You have to go out and get it. Automation UX Optimization Logging I find that the harder I work, the more luck I seem to have. Firewalls Do what you love and the money will follow. Container Orchestration Replica Set Frontend Serverless API Gateway If you can dream it, you can do it. Microservices Code Review

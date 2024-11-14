@@ -10,3 +10,4 @@ Replica Set Great things never come from comfort zones. API Scalability Pull Req
 Multi-threading Monitoring If you can dream it, you can do it. Zero Downtime Deployment Parallel Processing JWT Sharding Server Response Cloud Functions
 Python Code Review Cache Invalidation Scalability Difficult roads often lead to beautiful destinations.
 Database Indexing React API Kafka Blockchain Data Science GraphQL Containerization The only way to do great work is to love what you do. OAuth Difficult roads often lead to beautiful destinations. Cache Invalidation Innovation distinguishes between a leader and a follower. Quantum Computing Container Orchestration
+Containerization IoT UX Optimization Performance Message Queue
