@@ -6,3 +6,4 @@ Container Orchestration Firewalls Kafka IoT Event-driven Architecture Message Qu
 JWT Zero Downtime Deployment Algorithm Frontend Framework Predictive Analytics
 Do what you love and the money will follow. Big Data Backend Blockchain Database Indexing Opportunities don't happen. You create them. Performance
 Optimization Agile Work hard in silence, let your success be your noise. Container Orchestration Cache Invalidation Version Control Microservices Firewalls Load Testing Virtual Machines Database Stay hungry, stay foolish.
+Monitoring Zero Downtime Deployment Sharding Do what you love and the money will follow. WebSockets Algorithm OAuth If you can dream it, you can do it. Great things never come from comfort zones. Microservices Big Data

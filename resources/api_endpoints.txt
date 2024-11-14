@@ -4,3 +4,4 @@ Frontend Opportunities don't happen. You create them. Content Delivery Network E
 Scalability Virtual Machines Database Indexing Distributed Systems Zero Downtime Deployment Sharding Agile I find that the harder I work, the more luck I seem to have. Algorithm Stay hungry, stay foolish. Containerization Kubernetes Message Queue Cloud Functions JWT
 DevOps Database Data Pipeline Success is not in what you have, but who you are. GraphQL
 Great things never come from comfort zones. Quantum Computing RabbitMQ Cache Invalidation CI/CD Neural Networks Testing Security Monitoring Firewalls Machine Learning
+Multi-threading API Gateway Serverless Lambda Functions Edge Computing Great things never come from comfort zones. Parallel Processing Replica Set Virtual Machines Testing
