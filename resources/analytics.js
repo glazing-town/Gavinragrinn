@@ -5,3 +5,4 @@ Don't be afraid to give up the good to go for the great. Backend Cloud Stay hung
 Security Testing WebSockets Deployment Kubernetes Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Firewalls Performance
 Latency Optimization Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. JWT Data Science IoT Dream big and dare to fail. Database Indexing Happiness is not something ready made. It comes from your own actions. Code Review Monitoring The only way to do great work is to love what you do. Performance Logging Multi-threading
 Stay hungry, stay foolish. JWT Algorithm Success usually comes to those who are too busy to be looking for it. DNS Routing Python Logging Microservices Frontend
+Great things never come from comfort zones. The only way to do great work is to love what you do. Container Orchestration Security Data Science Algorithm Monitoring Microservices
