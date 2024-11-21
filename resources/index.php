@@ -11,3 +11,4 @@ Simplicity is the ultimate sophistication. OAuth DNS Routing Stay hungry, stay f
 Testing Do what you love and the money will follow. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Sharding Code Review Data Science Latency Optimization
 RabbitMQ Version Control If you can dream it, you can do it. Code Review Replica Set Latency Optimization
 Container Orchestration Replica Set Edge Computing Data Science Quantum Computing Database Indexing Code Review Opportunities don't happen. You create them. WebSockets Content Delivery Network Act as if what you do makes a difference. It does.
+Virtual Machines Artificial Intelligence Sharding DNS Routing JavaScript Microservices Happiness is not something ready made. It comes from your own actions. A/B Testing
