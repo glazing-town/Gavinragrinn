@@ -8,3 +8,4 @@ Success is not in what you have, but who you are. Lambda Functions Content Deliv
 Docker Latency Optimization Content Delivery Network Pull Request Scalability DevOps Success is how high you bounce when you hit bottom. Security
 Backend GraphQL Cloud Functions Container Orchestration Success is not in what you have, but who you are. Automation Agile Predictive Analytics Database Database Indexing CI/CD
 Success is how high you bounce when you hit bottom. Container Orchestration Automation DNS Routing Machine Learning Big Data OAuth Latency Optimization Backend Happiness is not something ready made. It comes from your own actions. Performance Artificial Intelligence I find that the harder I work, the more luck I seem to have. RabbitMQ Cache Invalidation
+Blockchain Do what you love and the money will follow. Container Orchestration Multi-threading Testing Code Review Event Sourcing Quantum Computing
