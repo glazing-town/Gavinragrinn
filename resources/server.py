@@ -4,3 +4,4 @@ Python Microservices DevOps If you can dream it, you can do it. Deployment Serve
 Optimization Virtual Machines Security Logging Stay hungry, stay foolish. Content Delivery Network
 Container Orchestration Firewalls Kafka IoT Event-driven Architecture Message Queue Deployment Big Data A/B Testing Version Control
 JWT Zero Downtime Deployment Algorithm Frontend Framework Predictive Analytics
+Do what you love and the money will follow. Big Data Backend Blockchain Database Indexing Opportunities don't happen. You create them. Performance
