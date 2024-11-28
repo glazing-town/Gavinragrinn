@@ -7,3 +7,4 @@ Automation Framework Kubernetes React Container Orchestration Difficult roads of
 JavaScript Lambda Functions Optimization Automation API Gateway Happiness is not something ready made. It comes from your own actions. Scalability RabbitMQ Kubernetes
 Blockchain Docker Cloud Functions Kafka Artificial Intelligence Data Science Simplicity is the ultimate sophistication. Great things never come from comfort zones. Server Response API Gateway WebSockets Pull Request Machine Learning Event Sourcing Data Pipeline
 Algorithm Content Delivery Network Agile Docker Multi-threading Load Balancing
+Predictive Analytics UX Optimization Edge Computing WebSockets Server Response Sharding JavaScript JWT Artificial Intelligence Cache Invalidation

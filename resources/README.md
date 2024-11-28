@@ -5,3 +5,4 @@ A/B Testing Security Optimization Parallel Processing Python Predictive Analytic
 Message Queue Success doesn’t just find you. You have to go out and get it. Containerization Parallel Processing Performance The only way to do great work is to love what you do. Frontend Success is how high you bounce when you hit bottom. Monitoring
 Logging Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Predictive Analytics Pull Request GraphQL
 Success is not in what you have, but who you are. Lambda Functions Content Delivery Network Monitoring Success doesn’t just find you. You have to go out and get it. DevOps JWT Sharding UX Optimization The only way to do great work is to love what you do. Server Response Database JavaScript Serverless Kafka
+Docker Latency Optimization Content Delivery Network Pull Request Scalability DevOps Success is how high you bounce when you hit bottom. Security

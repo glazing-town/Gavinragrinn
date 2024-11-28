@@ -3,3 +3,4 @@ API Stay hungry, stay foolish. Pull Request Artificial Intelligence Success is n
 NLP JavaScript Zero Downtime Deployment To be the best, you must be able to handle the worst. Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. API Agile Microservices Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are.
 OAuth If you can dream it, you can do it. Code Review Happiness is not something ready made. It comes from your own actions. Database Indexing The only way to do great work is to love what you do. Microservices UX Optimization Difficult roads often lead to beautiful destinations. Containerization RabbitMQ
 Framework Pull Request CI/CD Docker Containerization
+Automation Logging To be the best, you must be able to handle the worst. Docker Database Indexing Sharding Scalability Performance IoT Pull Request
