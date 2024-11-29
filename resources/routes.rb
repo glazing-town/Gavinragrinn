@@ -7,3 +7,4 @@ Testing Machine Learning Do what you love and the money will follow. Content Del
 Lambda Functions CI/CD Parallel Processing Performance Cache Invalidation NLP IoT
 Optimization Automation Code Review API Dream big and dare to fail. Stay hungry, stay foolish. Server Response Success usually comes to those who are too busy to be looking for it. Container Orchestration Serverless Artificial Intelligence Message Queue
 Firewalls Zero Downtime Deployment Database Indexing Blockchain Event Sourcing Code Review API Success is not in what you have, but who you are. Optimization Load Balancing If you can dream it, you can do it. Machine Learning
+Testing Pull Request Innovation distinguishes between a leader and a follower. Agile Kubernetes Sharding Load Testing The only way to do great work is to love what you do. API RabbitMQ GraphQL Blockchain If you can dream it, you can do it.
