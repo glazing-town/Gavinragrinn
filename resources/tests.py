@@ -7,3 +7,4 @@ IoT Frontend Optimization Load Testing Load Balancing Machine Learning JavaScrip
 Neural Networks Quantum Computing Docker The only way to do great work is to love what you do. Firewalls API
 Cloud WebSockets Frontend Latency Optimization Simplicity is the ultimate sophistication. Database Indexing DNS Routing Virtual Machines Quantum Computing Server Response Container Orchestration Event Sourcing
 Replica Set Great things never come from comfort zones. API Scalability Pull Request RabbitMQ Success doesn’t just find you. You have to go out and get it. JWT Testing Algorithm
+Multi-threading Monitoring If you can dream it, you can do it. Zero Downtime Deployment Parallel Processing JWT Sharding Server Response Cloud Functions
