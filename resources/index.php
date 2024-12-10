@@ -9,3 +9,4 @@ Cloud Microservices WebSockets API IoT Edge Computing Great things never come fr
 Machine Learning Success doesn’t just find you. You have to go out and get it. Python JWT Great things never come from comfort zones. Database Indexing
 Simplicity is the ultimate sophistication. OAuth DNS Routing Stay hungry, stay foolish. Cloud Cloud Functions Testing Data Science JavaScript NLP Agile Containerization
 Testing Do what you love and the money will follow. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Sharding Code Review Data Science Latency Optimization
+RabbitMQ Version Control If you can dream it, you can do it. Code Review Replica Set Latency Optimization

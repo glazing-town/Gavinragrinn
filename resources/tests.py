@@ -6,3 +6,4 @@ Sharding Deployment UX Optimization NLP Python Microservices Event-driven Archit
 IoT Frontend Optimization Load Testing Load Balancing Machine Learning JavaScript API Automation WebSockets Neural Networks If you can dream it, you can do it. Framework React
 Neural Networks Quantum Computing Docker The only way to do great work is to love what you do. Firewalls API
 Cloud WebSockets Frontend Latency Optimization Simplicity is the ultimate sophistication. Database Indexing DNS Routing Virtual Machines Quantum Computing Server Response Container Orchestration Event Sourcing
+Replica Set Great things never come from comfort zones. API Scalability Pull Request RabbitMQ Success doesn’t just find you. You have to go out and get it. JWT Testing Algorithm
