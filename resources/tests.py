@@ -5,3 +5,4 @@ JavaScript A/B Testing JWT Microservices Framework Success usually comes to thos
 Sharding Deployment UX Optimization NLP Python Microservices Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Performance Happiness is not something ready made. It comes from your own actions. RabbitMQ Security Cloud Functions Database Indexing
 IoT Frontend Optimization Load Testing Load Balancing Machine Learning JavaScript API Automation WebSockets Neural Networks If you can dream it, you can do it. Framework React
 Neural Networks Quantum Computing Docker The only way to do great work is to love what you do. Firewalls API
+Cloud WebSockets Frontend Latency Optimization Simplicity is the ultimate sophistication. Database Indexing DNS Routing Virtual Machines Quantum Computing Server Response Container Orchestration Event Sourcing
