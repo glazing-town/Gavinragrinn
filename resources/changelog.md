@@ -5,3 +5,4 @@ OAuth Replica Set Database Indexing Cloud Functions Simplicity is the ultimate s
 Kubernetes Serverless Algorithm Message Queue Containerization Neural Networks
 Automation Framework Kubernetes React Container Orchestration Difficult roads often lead to beautiful destinations. Database Cloud Edge Computing Event Sourcing Testing Event-driven Architecture Microservices Agile
 JavaScript Lambda Functions Optimization Automation API Gateway Happiness is not something ready made. It comes from your own actions. Scalability RabbitMQ Kubernetes
+Blockchain Docker Cloud Functions Kafka Artificial Intelligence Data Science Simplicity is the ultimate sophistication. Great things never come from comfort zones. Server Response API Gateway WebSockets Pull Request Machine Learning Event Sourcing Data Pipeline
