@@ -3,3 +3,4 @@ Zero Downtime Deployment Distributed Systems Success is how high you bounce when
 Python Microservices DevOps If you can dream it, you can do it. Deployment Server Response
 Optimization Virtual Machines Security Logging Stay hungry, stay foolish. Content Delivery Network
 Container Orchestration Firewalls Kafka IoT Event-driven Architecture Message Queue Deployment Big Data A/B Testing Version Control
+JWT Zero Downtime Deployment Algorithm Frontend Framework Predictive Analytics
