@@ -4,3 +4,4 @@ Difficult roads often lead to beautiful destinations. Kafka JWT Success is not i
 OAuth Replica Set Database Indexing Cloud Functions Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Event Sourcing Distributed Systems Do what you love and the money will follow. DNS Routing Neural Networks Quantum Computing Kubernetes
 Kubernetes Serverless Algorithm Message Queue Containerization Neural Networks
 Automation Framework Kubernetes React Container Orchestration Difficult roads often lead to beautiful destinations. Database Cloud Edge Computing Event Sourcing Testing Event-driven Architecture Microservices Agile
+JavaScript Lambda Functions Optimization Automation API Gateway Happiness is not something ready made. It comes from your own actions. Scalability RabbitMQ Kubernetes
