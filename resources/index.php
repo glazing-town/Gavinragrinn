@@ -7,3 +7,4 @@ Cache Invalidation Message Queue Load Testing The only way to do great work is t
 Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Testing If you can dream it, you can do it. Machine Learning Docker Lambda Functions Python OAuth Deployment A/B Testing
 Cloud Microservices WebSockets API IoT Edge Computing Great things never come from comfort zones. Virtual Machines
 Machine Learning Success doesn’t just find you. You have to go out and get it. Python JWT Great things never come from comfort zones. Database Indexing
+Simplicity is the ultimate sophistication. OAuth DNS Routing Stay hungry, stay foolish. Cloud Cloud Functions Testing Data Science JavaScript NLP Agile Containerization
