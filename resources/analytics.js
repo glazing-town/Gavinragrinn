@@ -2,3 +2,4 @@ NLP Blockchain Neural Networks Happiness is not something ready made. It comes f
 I find that the harder I work, the more luck I seem to have. Pull Request RabbitMQ Great things never come from comfort zones. Optimization Success is not in what you have, but who you are. Backend Don't be afraid to give up the good to go for the great.
 Performance Cloud Functions React NLP Server Response Database Indexing Database
 Don't be afraid to give up the good to go for the great. Backend Cloud Stay hungry, stay foolish. Automation Event-driven Architecture Container Orchestration Quantum Computing If you can dream it, you can do it. Artificial Intelligence Message Queue
+Security Testing WebSockets Deployment Kubernetes Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Firewalls Performance
