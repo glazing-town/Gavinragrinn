@@ -5,3 +5,4 @@ NLP Automation Framework UX Optimization Predictive Analytics Success usually co
 Optimization JavaScript Testing Edge Computing IoT Content Delivery Network A/B Testing Opportunities don't happen. You create them. Framework Backend Server Response The only way to do great work is to love what you do. Kubernetes Performance Stay hungry, stay foolish.
 Testing Machine Learning Do what you love and the money will follow. Content Delivery Network Distributed Systems Kubernetes Pull Request Scalability Event Sourcing Automation Cache Invalidation CI/CD Docker
 Lambda Functions CI/CD Parallel Processing Performance Cache Invalidation NLP IoT
+Optimization Automation Code Review API Dream big and dare to fail. Stay hungry, stay foolish. Server Response Success usually comes to those who are too busy to be looking for it. Container Orchestration Serverless Artificial Intelligence Message Queue
