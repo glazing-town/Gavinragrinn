@@ -1,3 +1,4 @@
 IoT Python Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Agile Event Sourcing Docker Cloud
 Cloud Testing Data Science Optimization Kubernetes Load Testing Data Pipeline Lambda Functions IoT I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do.
 If you can dream it, you can do it. Scalability Event Sourcing Database Indexing Agile
+Docker Virtual Machines Stay hungry, stay foolish. Data Pipeline Optimization Latency Optimization React Kafka Firewalls Simplicity is the ultimate sophistication. DNS Routing Event-driven Architecture Dream big and dare to fail. Predictive Analytics Distributed Systems
