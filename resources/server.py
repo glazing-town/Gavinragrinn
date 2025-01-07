@@ -2,3 +2,4 @@ JavaScript Do what you love and the money will follow. Innovation distinguishes 
 Zero Downtime Deployment Distributed Systems Success is how high you bounce when you hit bottom. Container Orchestration Database Indexing Data Pipeline JavaScript Algorithm Frontend UX Optimization Performance Multi-threading Edge Computing Data Science Artificial Intelligence
 Python Microservices DevOps If you can dream it, you can do it. Deployment Server Response
 Optimization Virtual Machines Security Logging Stay hungry, stay foolish. Content Delivery Network
+Container Orchestration Firewalls Kafka IoT Event-driven Architecture Message Queue Deployment Big Data A/B Testing Version Control
