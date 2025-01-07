@@ -3,3 +3,4 @@ Python Load Balancing Parallel Processing Act as if what you do makes a differen
 Work hard in silence, let your success be your noise. Distributed Systems If you can dream it, you can do it. Microservices Firewalls Success is how high you bounce when you hit bottom. Big Data
 Event-driven Architecture DNS Routing Python API Artificial Intelligence Kafka API Gateway Docker Container Orchestration
 Simplicity is the ultimate sophistication. API Gateway Latency Optimization Python Monitoring
+Cache Invalidation Message Queue Load Testing The only way to do great work is to love what you do. Containerization NLP Code Review Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Docker DNS Routing GraphQL
