@@ -3,3 +3,4 @@ Security Kafka Message Queue Parallel Processing Lambda Functions Server Respons
 Testing Parallel Processing I find that the harder I work, the more luck I seem to have. Automation Success doesn’t just find you. You have to go out and get it. Predictive Analytics Neural Networks Success is how high you bounce when you hit bottom. Performance Distributed Systems
 JavaScript A/B Testing JWT Microservices Framework Success usually comes to those who are too busy to be looking for it.
 Sharding Deployment UX Optimization NLP Python Microservices Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Performance Happiness is not something ready made. It comes from your own actions. RabbitMQ Security Cloud Functions Database Indexing
+IoT Frontend Optimization Load Testing Load Balancing Machine Learning JavaScript API Automation WebSockets Neural Networks If you can dream it, you can do it. Framework React
