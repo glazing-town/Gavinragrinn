@@ -1,2 +1,3 @@
 Load Balancing Work hard in silence, let your success be your noise. DNS Routing Kubernetes Database Indexing API Containerization Great things never come from comfort zones.
 Testing Dream big and dare to fail. Act as if what you do makes a difference. It does. Firewalls I find that the harder I work, the more luck I seem to have. Security Success doesn’t just find you. You have to go out and get it. Cloud Backend
+A/B Testing CI/CD Event Sourcing DNS Routing Testing Opportunities don't happen. You create them. Data Pipeline React Scalability Load Testing DevOps Kubernetes Success doesn’t just find you. You have to go out and get it.

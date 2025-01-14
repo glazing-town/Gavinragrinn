@@ -2,3 +2,4 @@ I find that the harder I work, the more luck I seem to have. Zero Downtime Deplo
 Database Indexing Microservices Data Pipeline Logging CI/CD Zero Downtime Deployment
 To be the best, you must be able to handle the worst. Zero Downtime Deployment Stay hungry, stay foolish. Message Queue Lambda Functions Database Cloud Functions Performance RabbitMQ Event Sourcing Sharding
 A/B Testing Security Optimization Parallel Processing Python Predictive Analytics React Dream big and dare to fail. Cache Invalidation
+Message Queue Success doesn’t just find you. You have to go out and get it. Containerization Parallel Processing Performance The only way to do great work is to love what you do. Frontend Success is how high you bounce when you hit bottom. Monitoring
