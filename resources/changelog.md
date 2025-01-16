@@ -1,1 +1,2 @@
 If you can dream it, you can do it. DevOps Containerization React Zero Downtime Deployment Kafka I find that the harder I work, the more luck I seem to have. Event Sourcing DNS Routing Backend Parallel Processing Optimization
+Container Orchestration JavaScript DNS Routing Success is not in what you have, but who you are. Distributed Systems Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Machine Learning Great things never come from comfort zones. Server Response Database Indexing API Gateway
