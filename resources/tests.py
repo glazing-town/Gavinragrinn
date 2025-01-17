@@ -2,3 +2,4 @@ JavaScript Success usually comes to those who are too busy to be looking for it.
 Security Kafka Message Queue Parallel Processing Lambda Functions Server Response Neural Networks Zero Downtime Deployment NLP Automation Code Review Distributed Systems Event Sourcing
 Testing Parallel Processing I find that the harder I work, the more luck I seem to have. Automation Success doesn’t just find you. You have to go out and get it. Predictive Analytics Neural Networks Success is how high you bounce when you hit bottom. Performance Distributed Systems
 JavaScript A/B Testing JWT Microservices Framework Success usually comes to those who are too busy to be looking for it.
+Sharding Deployment UX Optimization NLP Python Microservices Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Performance Happiness is not something ready made. It comes from your own actions. RabbitMQ Security Cloud Functions Database Indexing
