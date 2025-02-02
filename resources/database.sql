@@ -1,2 +1,3 @@
 Serverless Microservices Innovation distinguishes between a leader and a follower. Cloud Functions Work hard in silence, let your success be your noise. Firewalls Content Delivery Network
 API Stay hungry, stay foolish. Pull Request Artificial Intelligence Success is not in what you have, but who you are. CI/CD Event-driven Architecture
+NLP JavaScript Zero Downtime Deployment To be the best, you must be able to handle the worst. Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. API Agile Microservices Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are.
